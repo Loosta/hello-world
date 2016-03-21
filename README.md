@@ -2,4 +2,4 @@
 
 Hi there!
 
-Loosta is trying hard to learn more about PHP and Jave web.
+Loosta from China is trying hard to learn more about PHP and Jave web.
